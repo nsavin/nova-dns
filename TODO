@@ -10,8 +10,6 @@
 * AMQP
 ** on run instance create zone(s) hostname.projectname.fixedzone and add
    'A' record 
-** work with PTR records - probably support both plain reverse zone
-   delegation and store it in forward zone
 ** work thru API
 ** save state, after restarting sync DNS with nova
 ** docs/tests
